@@ -4,6 +4,7 @@ SEAT Design Challenge
 
 En repositorio se adjunta un pdf con la prueba del diseño Design-Challenge-Angel-Navas.pdf
 
+
 Los prototipos de los flujos principales de navegación, se puede ver en los siguientes enlaces de Invision. Los enlaces son públicos y no necesitan contraseña:
 
 Sonia 1 - Search and Prebooking
@@ -14,6 +15,7 @@ https://invis.io/8VWOC3ZAN3Y#/411786270_10_-_Push_Notification_Restaurant
 
 Sonia 2 - Booking confirmation
 https://invis.io/8VWOC3ZAN3Y#/411786272_13_-_Confirmation_Push_Notification 
+
 
 
 
