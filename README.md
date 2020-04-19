@@ -22,6 +22,7 @@ El entregable de la UI con la guía de desarrollo, se encuentra alojados en Zepl
 https://zpl.io/bzox1dA 
 
 user: cuentadepruebasytest@gmail.com
+
 password: password00000
 
 
