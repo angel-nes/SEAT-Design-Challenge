@@ -19,7 +19,7 @@ https://invis.io/8VWOC3ZAN3Y#/411786272_13_-_Confirmation_Push_Notification
 
 
 
-El entregable de la UI con la guía de desarrollo, se encuentra alojados en Zeplin. El enlace es privado, pero se adjunta un usuario y contraseña para poder acceder a la aplicación
+El entregable de la UI con la guía de desarrollo, se encuentra alojado en Zeplin. El enlace es privado, pero se adjunta un usuario y contraseña para poder acceder a la aplicación
 
 https://zpl.io/bzox1dA 
 
